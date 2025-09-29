@@ -10,8 +10,8 @@ A Python Project to simulate an Ai and see how good it is in minigames/miniexerc
 
 ### 💬Languages I Speak
 
-Rust, Swift, Python
-A bit of C++, JS, and ASM
+Swift, Python
+A bit of C++
 English, German, and French
 
 ### 📫How to Reach Me
