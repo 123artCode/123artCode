@@ -1,23 +1,23 @@
-# Hi there! I’m Anton
-Indie Developer • Hardware Hacker
+# Hi there! I’m Anton,...
+...an Indie Developer and Designer as well as an Ingeneer
 
-### 🔧 What I’m Building
+### I’m building...
 
-- A custom mechanical keyboard powered by QMK
-- An indie game made with Pygame – stay tuned!
-- A Python Project to simulate an Ai and see how good it is in minigames/miniexercises
+- ...a custom mechanical keyboard powered by QMK
+- ...an indie game made with Pygame – stay tuned!
+- ...a Python Project to simulate an Ai and see how good it is in minigames/miniexercises
 
 
-### 💬Languages I Speak
+### I speak...
 
-- Swift, Python
-- A bit of C++
-- English, German, and French
+- ...Swift, Python
+- ...a bit of C++
+- ...English, German, and French
 
-### 📫How to Reach Me
+### You can reach me...
 
-- Just text me… I’m usually around.
-- (Or create an issue in one of my repos if you’re feeling nerdy.)
+- ...by just texting me… I’m usually around.
+- ...or by creating an issue in one of my repos if you’re feeling nerdy.
 
 <!---
 123artCode/123artCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
