@@ -4,8 +4,9 @@
 ### I’m building...
 
 - ...a custom mechanical keyboard powered by QMK
-- ...an indie game made with Pygame – stay tuned!
+- ...an indie game made with Pygame
 - ...a Python Project to simulate an Ai and see how good it is in minigames/miniexercises
+- ...many more small Python Projects
 
 
 ### I speak...
