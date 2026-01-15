@@ -3,11 +3,12 @@
 
 ### I’m building...
 
-- ...a custom mechanical keyboard powered by QMK
-- ...an indie game made with Pygame using appwirte
+- ...a custom mechanical keyboard powered by QMK (Fiano)
+- ...an indie game made with Pygame using appwirte (Just_A_Game)
 - ...a Python Project to simulate an Ai and see how good it is in minigames/miniexercises
-- ...a python weather data visualizer
-- ...a c++ 2d physics simulator
+- ...a python weather data visualizer (Weathear_Data)
+- ...a c++ 2d physics simulator (Calculus)
+- ...a python project to reduce flickering in video clips caused by light with different frequences (Anti_Flickering)
 - ...many more small Python Projects
 
 
