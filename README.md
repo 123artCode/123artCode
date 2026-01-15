@@ -5,7 +5,7 @@
 
 - ...a custom mechanical keyboard powered by QMK (Fiano)
 - ...an indie game made with Pygame using appwirte ([Just_A_Game](https://github.com/123artCode/Just_a_Game))
-- ...a Python Project to simulate an Ai and see how good it is in minigames/miniexercises ([AI_Physics](https://github.com/123artCode/AI_Physics)
+- ...a Python Project to simulate an Ai and see how good it is in minigames/miniexercises ([AI_Physics](https://github.com/123artCode/AI_Physics))
 - ...a python weather data visualizer ([Weather_Data](https://github.com/123artCode/Weather_data))
 - ...a c++ 2d physics simulator ([Calculus](https://github.com/123artCode/Calculus))
 - ...a python project to reduce flickering in video clips caused by light with different frequences ([Anti_Flickering](https://github.com/123artCode/Anti_Flickering))
