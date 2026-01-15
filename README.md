@@ -1,11 +1,13 @@
 # Hi there! I’m Anton,...
-...an Indie Developer and Designer as well as an Ingeneer
+...an Indie Developer and Designer as well as an Engineer
 
 ### I’m building...
 
 - ...a custom mechanical keyboard powered by QMK
-- ...an indie game made with Pygame
+- ...an indie game made with Pygame using appwirte
 - ...a Python Project to simulate an Ai and see how good it is in minigames/miniexercises
+- ...a python weather data visualizer
+- ...a c++ 2d physics simulator
 - ...many more small Python Projects
 
 
@@ -17,8 +19,7 @@
 
 ### You can reach me...
 
-- ...by just texting me… I’m usually around.
-- ...or by creating an issue in one of my repos if you’re feeling nerdy.
+- ...by just texting me
 
 <!---
 123artCode/123artCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
