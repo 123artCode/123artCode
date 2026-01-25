@@ -22,6 +22,10 @@
 
 - ...by just texting me
 
+
+#Sorry for my bad code structure and the missing comments...🙀
+
+
 <!---
 123artCode/123artCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
