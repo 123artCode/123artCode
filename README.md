@@ -16,7 +16,9 @@
 
 - ...Swift, Python
 - ...soon C++
+- ...a little bit JavaScript
 - ...English, German, and French
+- I can also "design" a bit with htnml
 
 ### SO NOW YOU KNOW ME
 ### IT WAS NICE TO MEET YOU!
