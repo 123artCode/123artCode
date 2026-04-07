@@ -19,12 +19,11 @@
 - ...English, German, and French
 
 ### SO NOW YOU KNOW ME
-
-### IT WAS NICE TO MEET YOU
-
+### IT WAS NICE TO MEET YOU!
 
 
-#Sorry for my bad code structure and the missing comments...🙀
+
+# PS: Sorry for my bad code structure and the missing comments...🙀
 
 
 <!---
