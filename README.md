@@ -15,12 +15,13 @@
 ### I speak...
 
 - ...Swift, Python
-- ...a bit of C++
+- ...soon C++
 - ...English, German, and French
 
-### You can reach me...
+### SO NOW YOU KNOW ME
 
-- ...by just texting me
+### IT WAS NICE TO MEET YOU
+
 
 
 #Sorry for my bad code structure and the missing comments...🙀
