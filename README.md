@@ -15,7 +15,7 @@
 ### I speak...
 
 - ...Swift, Python
-- ...soon C++
+- ...soon C++ & Manim
 - ...a little bit JavaScript
 - ...English, German, and French
 - I can also "design" a bit with htnml
